@@ -1,0 +1,5 @@
+#user-dropdown{
+    top: 100%; /* Ensure dropdown appears below the button */
+    right: 0; /* Align dropdown to the right edge of the button */
+    margin-top: 0.5rem; /* Add some space between button and dropdown */
+}
